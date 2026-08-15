@@ -3,7 +3,7 @@
 <p>
   Welcome to my GitHub! 🚀<br/>
   I'm a <b>Junior Backend .NET Developer</b> from 
-  🇪🇬 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197600.png" width="13"/> 
   <b>Sohag, Egypt</b>, passionate about building scalable backend systems and clean APIs.
 </p>
 
